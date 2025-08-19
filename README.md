@@ -35,3 +35,10 @@ Proyecto de analítica de producto para una app de pedidos: se estudia el embudo
 ```bash
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
+
+## 🧰 Stack
+Python · pandas · matplotlib · statsmodels · scipy
+
+## 👤 Autor
+
+Josué Téllez
